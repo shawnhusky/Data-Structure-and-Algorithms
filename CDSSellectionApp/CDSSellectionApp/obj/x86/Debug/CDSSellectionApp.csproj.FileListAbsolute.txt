@@ -1,0 +1,5 @@
+C:\Users\Shawn Yeo\Desktop\SCHOOL WORK\YEAR2\2.1\DATA STRUCTURES ALGORITHMS\assignment\CDSSellectionApp\CDSSellectionApp\bin\Debug\CDSSellectionApp.exe
+C:\Users\Shawn Yeo\Desktop\SCHOOL WORK\YEAR2\2.1\DATA STRUCTURES ALGORITHMS\assignment\CDSSellectionApp\CDSSellectionApp\bin\Debug\CDSSellectionApp.pdb
+C:\Users\Shawn Yeo\Desktop\SCHOOL WORK\YEAR2\2.1\DATA STRUCTURES ALGORITHMS\assignment\CDSSellectionApp\CDSSellectionApp\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Shawn Yeo\Desktop\SCHOOL WORK\YEAR2\2.1\DATA STRUCTURES ALGORITHMS\assignment\CDSSellectionApp\CDSSellectionApp\obj\x86\Debug\CDSSellectionApp.exe
+C:\Users\Shawn Yeo\Desktop\SCHOOL WORK\YEAR2\2.1\DATA STRUCTURES ALGORITHMS\assignment\CDSSellectionApp\CDSSellectionApp\obj\x86\Debug\CDSSellectionApp.pdb

@@ -1,0 +1,10 @@
+C:\Users\Shawn Yeo\documents\visual studio 2010\Projects\EveryThingCanPackApp\EveryThingCanPackApp\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Shawn Yeo\documents\visual studio 2010\Projects\EveryThingCanPackApp\EveryThingCanPackApp\bin\Release\EveryThingCanPackApp.exe
+C:\Users\Shawn Yeo\documents\visual studio 2010\Projects\EveryThingCanPackApp\EveryThingCanPackApp\bin\Release\EveryThingCanPackApp.pdb
+C:\Users\Shawn Yeo\documents\visual studio 2010\Projects\EveryThingCanPackApp\EveryThingCanPackApp\obj\x86\Release\EveryThingCanPackApp.exe
+C:\Users\Shawn Yeo\documents\visual studio 2010\Projects\EveryThingCanPackApp\EveryThingCanPackApp\obj\x86\Release\EveryThingCanPackApp.pdb
+C:\Users\Shawn Yeo\Desktop\SCHOOL WORK\YEAR2\2.1\DATA STRUCTURES ALGORITHMS\assignment\MY ASSGINMENT\EveryThingCanPackApp\EveryThingCanPackApp\obj\x86\Release\EveryThingCanPackApp.exe
+C:\Users\Shawn Yeo\Desktop\SCHOOL WORK\YEAR2\2.1\DATA STRUCTURES ALGORITHMS\assignment\MY ASSGINMENT\EveryThingCanPackApp\EveryThingCanPackApp\obj\x86\Release\EveryThingCanPackApp.pdb
+C:\Users\Shawn Yeo\Desktop\SCHOOL WORK\YEAR2\2.1\DATA STRUCTURES ALGORITHMS\assignment\MY ASSGINMENT\EveryThingCanPackApp\EveryThingCanPackApp\bin\Release\EveryThingCanPackApp.exe
+C:\Users\Shawn Yeo\Desktop\SCHOOL WORK\YEAR2\2.1\DATA STRUCTURES ALGORITHMS\assignment\MY ASSGINMENT\EveryThingCanPackApp\EveryThingCanPackApp\bin\Release\EveryThingCanPackApp.pdb
+C:\Users\Shawn Yeo\Desktop\SCHOOL WORK\YEAR2\2.1\DATA STRUCTURES ALGORITHMS\assignment\MY ASSGINMENT\EveryThingCanPackApp\EveryThingCanPackApp\obj\x86\Release\ResolveAssemblyReference.cache
